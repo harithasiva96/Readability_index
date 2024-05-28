@@ -19,7 +19,7 @@ print(f"Sentence count: {sen_count}")
 print(f"Automatic readability index of {filename}: ", ari)
 
 
-if 1 <= ari < 2 :
+if  ari < 2 :
     print("Kinder garten")
 elif 2 <= ari < 3 :
     print("First grade")
