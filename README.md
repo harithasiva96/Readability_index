@@ -1,6 +1,6 @@
 # Automatic Readability Index
-## *Introduction* 
-Exploring shell scripting is really exciting as it integrate ideas in to automation and system management. Here using shell scripting an algorithm is created to calculate automatic readability index. ARI is the assessment of readability of a text with it's count of characters, words, and sentences and assigning specific grade catagories.
+## *My Experience* 
+Learn something new and explore novel ideas always excites me. The heartfullness of solving a problem accompanied me when I began to learn Integration and Differentiation in my school days. I stepped in to Bash scripting with that excitement. From my perspective I will never say learning Bash scripting is really amazing or fascinating. For sure its a bit tricky. Like a novel, once you get in to the story, you swim with the flow, sometimes against the flow. The idea of shell scripting is interesting as it integrate ideas in to automation and system management. Here using shell scripting an algorithm is created to calculate automatic readability index. ARI is the assessment of readability of a text with it's count of characters, words, and sentences and assigning specific grade catagories.
 ## *Code Functionality*
 - Process the valid file received from the user.
 - Inspect the file and find the count of characters, words and sentences.
